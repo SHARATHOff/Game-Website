@@ -1,0 +1,17 @@
+.div{
+    margin: 100px 100px 100px 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px;
+    padding-top:11px;
+    padding-bottom: 11px;
+    text-align: center;
+}
+body{
+    background-color: gray;
+}
+
+button{
+    font-family: 'Courier New';
+    font-style: unset;
+    font-size: xx-large;
+}
